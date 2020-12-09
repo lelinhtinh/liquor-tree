@@ -5,6 +5,7 @@ A Vue tree component that allows you to present hierarchically organized data in
 [documentation](https://amsik.github.io/liquor-tree/) | [demos](https://amsik.github.io/liquor-tree/#Examples)
 
 ## Features
+
 * drag&drop
 * mobile friendly
 * events for every action
@@ -17,16 +18,17 @@ A Vue tree component that allows you to present hierarchically organized data in
 * integration with Vuex
 
 ## Installation
+
 **Npm:**
 
 ```shell
-$ npm install liquor-tree
+npm install github:lelinhtinh/liquor-tree
 ```
 
 **Yarn:**
 
 ```shell
-$ yarn add liquor-tree
+yarn add github:lelinhtinh/liquor-tree
 ```
 
 ## Live Playground
@@ -35,8 +37,8 @@ To run that demo on your own computer:
 
 * Clone this repository
 * `npm install`
-* `npm run build` 
-* `npm run storybook` 
+* `npm run build`
+* `npm run storybook`
 * Visit `http://localhost:9001/`
 
 There are a lot of examples for you. All sources of stories are located in `liquor-tree/docs/storybook/stories`.
@@ -85,9 +87,8 @@ There are a lot of examples for you. All sources of stories are located in `liqu
 
 Check out the `package.json`s script section. There are 2 scripts:
 
-- `npm run dev` - it will open browser and you can *play* with code
-- `npm run build` - it will craete a module file in `production` mode 
-
+* `npm run dev` - it will open browser and you can *play* with code
+* `npm run build` - it will craete a module file in `production` mode
 
 ## License
 

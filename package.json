@@ -1,7 +1,7 @@
 {
   "name": "liquor-tree",
   "description": "A Vue.js tree component.",
-  "version": "0.2.70",
+  "version": "0.2.701",
   "author": "Kostiantyn <phlyze@gmail.com>",
   "scripts": {
     "lint": "vue-cli-service lint",
